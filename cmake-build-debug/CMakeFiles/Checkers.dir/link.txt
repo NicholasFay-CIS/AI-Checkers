@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Checkers.dir/main.cc.o CMakeFiles/Checkers.dir/Score.cc.o CMakeFiles/Checkers.dir/Board.cc.o CMakeFiles/Checkers.dir/Tile.cc.o CMakeFiles/Checkers.dir/CLI.cc.o  -o Checkers 
